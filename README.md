@@ -47,3 +47,4 @@ Assumptions
 Results
 
 The solver generates thrust variation across different exit-to-throat area ratios
+![Thrust vs Area Ratio](results/thrust_vs_area_ratio.png)
