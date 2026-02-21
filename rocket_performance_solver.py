@@ -3,14 +3,13 @@ from scipy.optimize import fsolve
 
 
 # INPUT PARAMETERS
-
 Pc = 3.1e6        # Chamber pressure (Pa) - absolute
 Tc = 3000         # Chamber temperature (K)
 gamma = 1.4
 R = 287
-Ae_At = 6         # Area ratio (change later)
-At = 1e-4         # Throat area (m^2)
-Pa = 101000       # Ambient pressure (Pa)
+Ae_At = 5.76       # Area ratio (change later)
+At = 6.86e-5       # Throat area (m^2)
+Pa = 101325       # Ambient pressure (Pa)
 
 # AREA-MACH RELATION
 
